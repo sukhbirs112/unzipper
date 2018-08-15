@@ -1,0 +1,23 @@
+{
+  "name": "unzipper",
+  "version": "1.0.0",
+  "description": "Unzips new folders placed in a monitored directory and saves contents to a different specified folder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukhbirs112/unzipper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sukhbirs112/unzipper/issues"
+  },
+  "homepage": "https://github.com/sukhbirs112/unzipper#readme",
+  "dependencies": {
+    "extract-zip": "^1.6.7",
+    "forever": "^0.15.3"
+  }
+}
